@@ -24,5 +24,8 @@ NOT : ![image](https://github.com/user-attachments/assets/9271345a-c449-4a28-9cb
 Nuage pour droite : 
 ![image](https://github.com/user-attachments/assets/65516aba-d912-4848-81ef-40984d1d49cf)
 
-Multi-zone : Capture d'écran
-Contrentrique : Capture d'écran
+Multi-zone : 
+![image](https://github.com/user-attachments/assets/60b7ff5e-dcd2-4c98-a284-0599a7ccfb6a)
+
+Contrentrique : 
+![image](https://github.com/user-attachments/assets/7e7a4f37-6817-45ae-a452-982b42d5fa79)
