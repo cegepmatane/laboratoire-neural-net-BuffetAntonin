@@ -21,6 +21,8 @@ XOR : ![image](https://github.com/user-attachments/assets/1f9cb792-233c-4ac3-b69
 NOT : ![image](https://github.com/user-attachments/assets/9271345a-c449-4a28-9cba-0804b385e6f3)
 
 **NUAGES de TENSOR FLOW**
-Nuage pour droite : Capture d'écran
+Nuage pour droite : 
+![image](https://github.com/user-attachments/assets/65516aba-d912-4848-81ef-40984d1d49cf)
+
 Multi-zone : Capture d'écran
 Contrentrique : Capture d'écran
