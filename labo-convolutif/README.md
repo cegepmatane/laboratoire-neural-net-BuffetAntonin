@@ -13,7 +13,6 @@ Votre choix de CNN approuvé par le professeur
 
 Votre colab public :  https://colab.research.google.com/drive/1l0NwKzbP9vZaIojaAIxpupLuyW1H3rVQ#scrollTo=_3APy_0-1LvQ
 
-![cc6ad91b-9817-4988-ab1e-4f73baa27754](https://github.com/user-attachments/assets/bdcb48a8-b4de-44ed-b0ff-8e6db970c0e4)
 
 
 Votre dessin en format PNG (on doit le voir dans le README) :  
